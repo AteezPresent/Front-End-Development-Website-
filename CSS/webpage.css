@@ -1,0 +1,46 @@
+header  {
+    background-color:rgb(169, 128, 128) ; ;
+    padding: 20px;
+    color:black
+  }
+
+  
+  .logo {
+    max-width: 100px;
+  }
+style
+
+style
+    
+.nav bar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+
+.row.contnet {height: 450px;}
+
+
+
+.sidenav {
+padding-top: 20px;
+background-color:rgb(169, 128, 128); ;
+}
+
+
+footer {
+background-color: rgb(169, 128, 128);
+color: black;
+padding: 15px;
+
+}
+
+
+@media screen  and (max-width)  { 
+.sidenav {
+  height: auto;
+  padding: 15px;
+}
+.row.contnet {height: auto;}   
+}
+
